@@ -17,7 +17,7 @@ This course is suitable for complete beginners who aspire to learn programming a
 
 https://www.udemy.com/course/python-for-software-engineering/
 
-## Repository Content
+## Course Summary
 You can find the course summary we worked on with Saifeddine Barkia in this Notion link: https://lnkd.in/ekhX_yNe
 
 ## Repository Content
